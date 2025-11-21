@@ -32,6 +32,24 @@ public class arrays {
     	   evenGetallenreeks.add(som);
     	   }
        
+       //opdracht 3
+       //Schrijf een programma die test of de eerste en de laatste waarde in een array hetzelfde zijn.
+       //Experimenteer met arrays van verschillende lengte en inhoud.
+       //Denk na over hoe je dit zou moeten testen en maak een testset om de juistheid van je code aan te tonen.
+       
+       Array<Long> verschillen= new Array<Long>();
+       
+       for (int i = 2; i < 50; i++) {
+    	
+    	   verschillen.get(i)) 
+    	   
+    	   
+    	   
+       }
+       
+       //opdracht 4
+       
+       
        }
         
     }
