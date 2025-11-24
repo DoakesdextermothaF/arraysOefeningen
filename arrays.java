@@ -41,7 +41,8 @@ public class arrays {
        
        for (int i = 2; i < 50; i++) {
     	
-    	   verschillen.get(i)) 
+    	   verschillen.add(1);
+    	   verschillen.add(2);
     	   
     	   
     	   
